@@ -3,10 +3,7 @@ body{
 }
 
 .zone {
-    /*padding:30px 50px;
-    margin:40px 60px;*/
     cursor:pointer;
-    /*display:inline-block;*/
     color:#FFF;
     font-size:2em;
     border-radius:4px;
@@ -15,10 +12,10 @@ body{
 }
 
 .zone:hover {
-    -webkit-box-shadow:rgba(0,0,0,0.8) 0px 5px 15px, inset rgba(0,0,0,0.15) 0px -10px 20px;
-    -moz-box-shadow:rgba(0,0,0,0.8) 0px 5px 15px, inset rgba(0,0,0,0.15) 0px -10px 20px;
-    -o-box-shadow:rgba(0,0,0,0.8) 0px 5px 15px, inset rgba(0,0,0,0.15) 0px -10px 20px;
-    box-shadow:rgba(0,0,0,0.8) 0px 5px 15px, inset rgba(0,0,0,0.15) 0px -10px 20px;
+    -webkit-box-shadow:#000000cc 0px 5px 15px, inset #00000026 0px -10px 20px;
+    -moz-box-shadow:#000000cc 0px 5px 15px, inset #00000026 0px -10px 20px;
+    -o-box-shadow:#000000cc 0px 5px 15px, inset #00000026 0px -10px 20px;
+    box-shadow:#000000cc 0px 5px 15px, inset #00000026 0px -10px 20px;
 }
 
 .main-nav{
@@ -56,7 +53,7 @@ a{
     width: 100%;
 }
 .box{
-    background-color: #444;
+    background-color: #444444;
     padding: 130px;
     margin: 20px;
 }
